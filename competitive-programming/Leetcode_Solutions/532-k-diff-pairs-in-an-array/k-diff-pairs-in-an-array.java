@@ -15,6 +15,6 @@ class Solution {
                 }
             }
         }
-        return cnt;
+        return hs.size();
     }
 }
